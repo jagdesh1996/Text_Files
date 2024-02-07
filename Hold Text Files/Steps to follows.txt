@@ -1,0 +1,34 @@
+Temporal VS Spatial Dataset
+
+Models
+	1. RNN
+	2. LSTM
+	3. GRN
+	4. 1DCNN
+	
+Include Output(Label or predictive) columns in features columns while creating the time-steps for Time-Series Datsets
+
+Time Series Dataset
+
+Preprocessing the dataset for Time-Series Problem
+	1. Scaled the data.
+	2. Create Day Sin, Year Sin, Day Cos, & Year Cos features
+	3. and other step required for clearing the data
+
+
+Window Length
+	1. Time Steps
+	
+	
+Split Dataset for Train, Val & Test
+
+
+Deep Learning.Tensorflow 8/7/2023 12:59 PM      								Done
+TensorFlow: Advanced Techniques Specialization  8/26/2023
+IBM Machine Learning Professional Certificate   8/26/2023
+TensorFlow: Data and Deployment Specialization    
+Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate
+Data Science Foundations: Data Structures and Algorithms Specialization
+
+
+https://youtube.com/shorts/oZvjqUl8ibo?feature=share
